@@ -29,7 +29,7 @@ npm start
 
 - **Website**: [jpulse.net](https://jpulse.net)
 - **Framework Repository**: [jpulse-framework](https://github.com/jpulse-net/jpulse-framework)
-- **Documentation**: [Getting Started Guide]([https://github.com/jpulse-net/jpulse-framework/blob/main](https://jpulse.net/docs/getting-started.md)
+- **Documentation**: [Getting Started Guide](https://jpulse.net/docs/getting-started.md)
 
 ## 🎯 Target Organizations
 
@@ -42,7 +42,7 @@ Designed for midsize to large organizations in:
 
 ## 📄 License
 
-**BSL 1.1** - Free for evaluation, development, testing, and learning. Commercial license required for production use.
+**BSL 1.1** - Free for evaluation, development, testing, and learning. Commercial license required for production use,  contact [team@jpulse.net](mailto:team@jpulse.net).
 
 ---
 
